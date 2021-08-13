@@ -1,3 +1,3 @@
 # superTeamProject
 
-I enjoy JavaScript I guess.
+New text and changes to be committed
